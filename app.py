@@ -1,5 +1,6 @@
 print("Title of program: Math Revision Game")
 print("You have 5 tries to complete this game")
+print("Answers with decimal places round to 1 s.f.")
 print()
 
 import random
